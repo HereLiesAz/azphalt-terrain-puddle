@@ -1,0 +1,9 @@
+{
+    "name":  "@azphalt/scenery-terrain-puddle",
+    "version":  "1.0.0",
+    "description":  "",
+    "private":  false,
+    "scripts":  {
+                    "build":  "node build.js"
+                }
+}
