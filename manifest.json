@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.layer.scenery.scenery-terrain-puddle",
+  "id": "com.hereliesaz.azphalt.terrain-puddle",
   "name": "Terrain Puddle Reflection",
   "version": "1.0.0",
   "kind": "asset",
