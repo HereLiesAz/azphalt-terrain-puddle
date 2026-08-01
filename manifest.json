@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Reflects the layer in the ground beneath it, following the contour of whatever floor the shot actually has.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
